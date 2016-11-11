@@ -104,7 +104,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MainIco.ico" />
     <Content Include="MainIco2.ico" />
     <None Include="Resources\MainIco2.ico" />
     <None Include="Resources\WavLibraryNet_Sound1769.wav" />

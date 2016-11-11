@@ -39,3 +39,9 @@ C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\AxInte
 C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
 C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\bin\Debug\Interop.WMPLib.dll
 C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
